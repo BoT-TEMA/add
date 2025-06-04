@@ -42,15 +42,15 @@ vector<int> nearestSmallerRight(const vector<int>& nums) {
 
 ## Тестирование программы
 
-### **Тест 1**(из разбора): <br><br>
+### **Тест 1**(из разбора): <br>
 ![Первый тест](https://github.com/BoT-TEMA/add/blob/main/Screenshot%202025-06-05%20at%2000.04.56.png)
 <br>
 
-### **Тест 2**: <br><br>
+### **Тест 2**: <br>
 ![Первый тест](https://github.com/BoT-TEMA/add/blob/main/Screenshot%202025-06-05%20at%2000.01.32.png)
 <br>
 
-### **Тест 3**: <br><br>
+### **Тест 3**: <br>
 ![Второй тест](https://github.com/BoT-TEMA/add/blob/main/Screenshot%202025-06-05%20at%2000.01.48.png)
 <br>
 
