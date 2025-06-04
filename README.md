@@ -41,7 +41,7 @@ vector<int> nearestSmallerRight(const vector<int>& nums) {
 
 ### Тестирование программы
 
-**Тест 1**(из разбора): Входные данные: `7 2 4 5 3 2 5 1 5 4`
+**Тест 1**(из разбора): <br>
 ![Первый тест](https://github.com/BoT-TEMA/add/blob/main/Screenshot%202025-06-04%20at%2023.54.39.png)
 ```
 Индексы:   0  1  2  3  4  5  6  7  8  9
